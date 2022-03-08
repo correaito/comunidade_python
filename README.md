@@ -2,7 +2,7 @@
 <h4 align="center">Projeto desenvolvido durante curso Python Impressionador com finalidade de estudo e treinamento de desenvolvimento de Websites.</h4>
 
 <p align="center">
-<a href="https://github.com/correaito/comunidade_python/edit/main/README.md#tecnologias"> Tecnologias</a> | <a href="https://github.com/correaito/comunidade_python/edit/main/README.md#informacao-uso">Como Usar</a>
+<a href="#tecnologias"> Tecnologias</a> | <a href="#informacao-uso">Como Usar</a>
 </p>
 
 [View demo](#)
