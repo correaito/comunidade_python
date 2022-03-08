@@ -23,11 +23,11 @@ def home():
 def contato():
     form = FormContato()
     if form.validate_on_submit():
-        usuario = yagmail.SMTP(user='correaito@gmail.com', password='Ae9os1it')
+        usuario = yagmail.SMTP(user='teste@gmail.com', password='123')
         info = f'Mensagem enviada por {current_user.username}'
         titulo_assunto = '<strong>Assunto:</strong> {}<br>'.format(form.assunto.data)
         email_usuario = '<strong>E-mail do usuário:</strong> {}<br><br>'.format(current_user.email)
-        usuario.send(to='correaito@gmail.com', subject=info, contents=[titulo_assunto, email_usuario, f'<strong>Mensagem: </strong><br>{form.texto.data}'])
+        usuario.send(to='teste@gmail.com', subject=info, contents=[titulo_assunto, email_usuario, f'<strong>Mensagem: </strong><br>{form.texto.data}'])
         flash('Mensagem enviada com sucesso! Aguarde que em breve retornaremos', 'alert-success')
     return render_template('contato.html', form=form)
 
