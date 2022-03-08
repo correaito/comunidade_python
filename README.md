@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=correaito&label=Profile%20views&color=0e75b6&style=flat" alt="correaito" /> </p>
 
-- 🔭 No momento estou trabalhando com **Python Community**
-
-- 🌱 Atualmente estou aprendendo **Bootstrap**, **Python**, **Flask**, **SQLAlchemy**, **Git**
-
-- 🤝 Procuro ajuda com **Flesk**, **Flesk-Form**, **Git**
+<a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:250008054,&quot;originating_url&quot;:&quot;https://github.com/luisotavio756/site-covid-19&quot;,&quot;user_id&quot;:35142192}}" data-hydro-click-hmac="f7958a1aa974a77cafc092b50031ac16dbfdfb799c46138d27feaa4e83976fe0" href="#rocket-technologies"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Technologies</a>
 
 - Em breve novas instruções sobre esse app
+- 
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
