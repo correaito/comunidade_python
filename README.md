@@ -5,9 +5,9 @@
 
 - 🔭 No momento estou trabalhando com **Python Community**
 
-- 🌱 Atualmente estou aprendendo **Bootstrap, Python, Flask, SQLAlchemy, Git **
+- 🌱 Atualmente estou aprendendo **Bootstrap, **Python**, **Flask**, **SQLAlchemy**, **Git**
 
-- 🤝 Procuro ajuda com **Flesk, Flesk-Form, Git **
+- 🤝 Procuro ajuda com **Flesk**, **Flesk-Form**, **Git**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
