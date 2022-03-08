@@ -7,7 +7,7 @@
 
 [View demo](#)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=correaito&label=Profile%20views&color=0e75b6&style=flat" alt="correaito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=correaito&label=Project%20views&color=0e75b6&style=flat" alt="correaito" /> </p>
 
 ![imagem](https://img.shields.io/badge/-Python-orange) ![imagem](https://img.shields.io/badge/-Flask-black) ![imagem](https://img.shields.io/badge/-SQLAlchemy-yellow) ![imagem](https://img.shields.io/badge/-Bootstrap-blue)  ![imagem](https://img.shields.io/badge/-HTML-red) ![imagem](https://img.shields.io/badge/-CSS-green)
 
