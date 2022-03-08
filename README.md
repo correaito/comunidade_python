@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=correaito&label=Profile%20views&color=0e75b6&style=flat" alt="correaito" /> </p>
 
-- 🔭 I’m currently working on **Python Community**
+- 🔭 No momento estou trabalhando com **Python Community**
 
-- 🌱 I’m currently learning **Bootstrap,**
+- 🌱 Atualmente estou aprendendo **Bootstrap, Python, Flask, SQLAlchemy, Git **
 
-- 🤝 I’m looking for help with **Flesk, Flesk Form**
+- 🤝 Procuro ajuda com **Flesk, Flesk-Form, Git **
 
-<h3 align="left">Connecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alan-garmatter-8a05601b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-garmatter-8a05601b8/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alan-garmatter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alan-garmatter" height="30" width="40" /></a>
