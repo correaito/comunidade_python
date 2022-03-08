@@ -1,15 +1,18 @@
-<h1 align="center">Python Community</h1>
-<h3 align="center">Projeto Python para finalidade de estudo</h3>
+<h1 align="center"> Comunidade Impressionadora </h1>
+<h4 align="center">Projeto desenvolvido durante curso Python Impressionador com finalidade de estudo e treinamento de desenvolvimento de Websites.</h4>
+
+<p align="center">
+<a href="https://github.com/correaito/comunidade_python/edit/main/README.md#tecnologias"> Tecnologias</a> | <a href="https://github.com/correaito/comunidade_python/edit/main/README.md#informacao-uso">Como Usar</a>
+</p>
+
+[View demo](#)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=correaito&label=Profile%20views&color=0e75b6&style=flat" alt="correaito" /> </p>
 
-##<center>Projeto Comunidade Impressionadora</center>
-<center></centerProjeto>Projeto desenvolvido através do Curso Python Impressionador, em caracter de estudo</center>
+![imagem](https://img.shields.io/badge/-Python-orange) ![imagem](https://img.shields.io/badge/-Flask-black) ![imagem](https://img.shields.io/badge/-Bootstrap-blue)  ![imagem](https://img.shields.io/badge/-HTML-red) ![imagem](https://img.shields.io/badge/-CSS-green)
 
-<center>[Technologies](https://github.com/pandao/editor.md "Heading link")   |   [How To Use](https://github.com/pandao/editor.md "Heading link")  </center>
-[View demo](https://github.com/pandao/editor.md "Heading link")
-
-### :tw-1f680:  Tecnologias
+<a id="tecnologias" class="anchor"></a>
+### :rocket:  Tecnologias
 
 ------------
 Esse projeto foi desenvolvido como um Projeto Pessoal, com as seguintes tecnologias:
@@ -19,9 +22,13 @@ Esse projeto foi desenvolvido como um Projeto Pessoal, com as seguintes tecnolog
 - [Bootstrap](https://getbootstrap.com/ "Heading link")
 - [Font Awesome](https://fontawesome.com/ "Heading link")
 
-### :tw-2139:  Como Usar
+<a id="informacao-uso" class="anchor"></a>
+### :information_source:  Como Usar
 ------------
-Para clonar e executar este aplicativo, você precisará apenas clonar e abrir em seu navegador. Da sua linha de comando:
+Para clonar e executar este aplicativo, você precisará apenas clonar e abrir em seu navegador. 
+
+Da sua linha de comando:
+
     # Clone este repositório
     $ git clone https://github.com/correaito/comunidade_python.git
     
@@ -30,18 +37,40 @@ Para clonar e executar este aplicativo, você precisará apenas clonar e abrir e
     
     # Instale as extensões
     $ pip install flask
+    $ pip install Flask-Login
     $ pip install sqlalchemy
     $ pip install yagmail
     $ pip install bcrypt
+    
+ Depois, execute os comandos no terminal de seu IDE para limpar o banco de dados:
+ 
+     # Importe o database
+     $ from comunidadeimpressionadora import database
+     
+     # e execute o comando para limpar todas as tabelas
+     $ database.drop_all()
+     # e o comando criar todas as tabelas novamente
+     $ database.create_all()
+     
+ Na linha 26 do arquivo routes, configure a conta de email do yagmail para envio de mensagens da área Contato do site:
+ 
+    # Altere o email e senha para a conta que irá disparar os emails de contato
+        if form.validate_on_submit():
+        usuario = yagmail.SMTP(user='teste@gmail.com', password='123') 
+        
+  E na linha 30 desse mesmo arquivo, altere o destinatário das mensagens:
+  
+    usuario.send(to='teste@gmail.com',
+     
+    
+Agora, para executar o script, dentro do PyCharm, abra o arquivo main.py, clique com o botão direito do mouse, e depois em "Run main.py", ou com <kbd>SHIFT</kbd> + <kbd>CTRL</kbd> + <kbd>F10</kbd>.
 
 Ao fazer isso, o servidor do Flask será executado no terminal do próprio PyCharm e uma URL para acessá-lo será exibida
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alan-garmatter-8a05601b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-garmatter-8a05601b8/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/alan-garmatter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alan-garmatter" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/saservicosti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/saservicosti" height="30" width="40" /></a>
-</p>
+![Isso é uma imagem](https://dkrn4sk0rn31v.cloudfront.net/2019/10/14171039/2019-10-14-16-06-55-image.png)
 
-<h3 align="left">Idiomas e Ferramentas Aprendizado Constante:</h3>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><i class="devicon-python-plain colored"></i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><i class="devicon-python-plain colored"></i>
+Clicando na rota disponibilizada, o navegador padrão do computador irá abrir e executar nosso projeto.
+
+------------
+:trophy: Meu primeiro repositório, então..seja paciente. :hand_over_mouth: <br>
+Made with ♥ by Alan Garmatter. [Visite meu LinkedIn](https://www.linkedin.com/in/alan-garmatter-8a05601b8/)! 👋 
