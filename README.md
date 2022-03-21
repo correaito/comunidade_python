@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido como um Projeto Pessoal, com as seguintes tecnolog
 <a id="informacao-uso" class="anchor"></a>
 ### :information_source:  Como Usar
 ------------
-Para clonar e executar este aplicativo, você precisará apenas clonar e abrir em seu navegador. 
+Para executar este aplicativo, você precisará apenas clonar e abrir em seu navegador. 
 
 Da sua linha de comando:
 
