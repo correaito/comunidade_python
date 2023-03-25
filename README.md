@@ -73,4 +73,4 @@ Clicando na rota disponibilizada, o navegador padrão do computador irá abrir e
 
 ------------
 :trophy: Meu primeiro repositório, então..seja generoso. :hand_over_mouth: <br>
-Feito com ♥ por Alan Garmatter. [Visite meu LinkedIn](https://www.linkedin.com/in/alan-garmatter-8a05601b8/)! 👋 
+Feito com ♥ por Alan Garmatter.
